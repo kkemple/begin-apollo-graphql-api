@@ -3,6 +3,7 @@ begin-app
 
 @http
 post /graphql
+get /graphql
 
 @tables
 data
